@@ -1,10 +1,15 @@
 EX NO 1: Cloud-account-set-up-and-services
+
 Name : M S Megala 
+
 Reg no: 212225040230
+
 Aim:
+
 To create an cloud account in AWS and to explore all of its services.
 
 Procedure
+
 Step 1: Go to the AWS Website • Visit https://aws.amazon.com
 
 • Click “Create an AWS Account” in the top right corner.
@@ -58,8 +63,11 @@ Sign in as the user with administrative access To sign in with your IAM Identity
 Services Overview: • Explore all the available services in AWS platform.
 
 Output:
+
 <img width="1920" height="1200" alt="Screenshot 2026-07-28 212920" src="https://github.com/user-attachments/assets/8527495f-7237-4d46-9b54-85539548e2c7" />
+
 <img width="1920" height="1200" alt="Screenshot 2026-07-28 214954" src="https://github.com/user-attachments/assets/5e55f7c1-20b9-44f3-8cea-5edcf00636b7" />
 
 Result:
+
 Thus an account was created in AWS platform and all the services were explored.
