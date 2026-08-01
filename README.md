@@ -1,6 +1,6 @@
-<img width="1920" height="1200" alt="Screenshot 2026-07-28 214954" src="https://github.com/user-attachments/assets/828a2ce3-5383-4e95-bf97-d34065fd43f3" />EX NO 1: Cloud-account-set-up-and-services
-Name : N.Navya Sree
-Reg no: 212223040138
+EX NO 1: Cloud-account-set-up-and-services
+Name : M S Megala 
+Reg no: 212225040230
 Aim:
 To create an cloud account in AWS and to explore all of its services.
 
